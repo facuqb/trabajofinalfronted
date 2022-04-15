@@ -405,6 +405,25 @@ footer{
     font-size: 1.3rem;
     padding-left: 1rem;
 }
+.footerlastbar_lastconteiner-forms button{
+    background-color: var(--secondary-color);
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 500;
+    width: 6.3rem;
+    height: 4.2rem;
+    border-radius: 5rem;
+}
+
+.footerlastbar_lastconteiner-copyright{
+    color: #8C8C94;
+    font-size: 1.25rem;
+    line-height: 1.82rem;
+    font-weight: 500;
+    margin-bottom: 5.2rem;
+    margin-right: 7vw;
+    text-align: right;
+}
 
 /* media query effects for destokp */
 
@@ -415,28 +434,12 @@ footer{
     font-weight: bold;
     }
 }
-.footerlastbar_lastconteiner-forms button{
-    background-color: var(--color-secundario);
-    color: white;
-    font-size: 1.3rem;
-    font-weight: 500;
-    width: 6.3rem;
-    height: 4.2rem;
-    border-radius: 5rem;
-}
+
 .footerlastbar_lastconteiner-forms button:hover{
     text-decoration: underline;
     cursor: pointer;
 }
-.footerlastbar_lastconteiner-copyright{
-    color: #8C8C94;
-    font-size: 1.25rem;
-    line-height: 1.82rem;
-    font-weight: 500;
-    margin-bottom: 5.2rem;
-    margin-right: 7vw;
-    text-align: right;
-}
+
 
 /* mobile version*/
 
